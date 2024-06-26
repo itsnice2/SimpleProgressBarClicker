@@ -1,0 +1,18 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\ea-da\Documents\GitHub\SimpleProgressBarClicker\Form1.h(267,15): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „/CppCLR_WinFormsProject.cpp“ wird kompiliert)
+  
+C:\Users\ea-da\Documents\GitHub\SimpleProgressBarClicker\Form1.h(316,50): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „/CppCLR_WinFormsProject.cpp“ wird kompiliert)
+  
+C:\Users\ea-da\Documents\GitHub\SimpleProgressBarClicker\Form1.h(317,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „/CppCLR_WinFormsProject.cpp“ wird kompiliert)
+  
+C:\Users\ea-da\Documents\GitHub\SimpleProgressBarClicker\Form1.h(331,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „/CppCLR_WinFormsProject.cpp“ wird kompiliert)
+  
+C:\Users\ea-da\Documents\GitHub\SimpleProgressBarClicker\Form1.h(333,51): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „/CppCLR_WinFormsProject.cpp“ wird kompiliert)
+  
+  AssemblyInfo.obj : MSIL-Modulgefunden; inkrementelles Verknüpfen wird für MSIL deaktiviert; vollständiger Link wird durchgeführt
+  SimpleProgressBarClicker.vcxproj -> C:\Users\ea-da\Documents\GitHub\SimpleProgressBarClicker\x64\Debug\SimpleProgressBarClicker.exe

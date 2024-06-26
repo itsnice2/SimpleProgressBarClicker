@@ -1,0 +1,4 @@
+C:\Users\ea-da\Documents\GitHub\SimpleProgressBarClicker\x64\Debug\SimpleProgressBarClicker.vcxproj.AssemblyReference.cache
+C:\Users\ea-da\Documents\GitHub\SimpleProgressBarClicker\x64\Debug\SimpleProgressBarClicker.Form1.resources
+C:\Users\ea-da\Documents\GitHub\SimpleProgressBarClicker\x64\Debug\SimpleProgressBarClicker.vcxproj.GenerateResource.cache
+C:\Users\ea-da\Documents\GitHub\SimpleProgressBarClicker\x64\Debug\SimpleProgressBarClicker.exe
