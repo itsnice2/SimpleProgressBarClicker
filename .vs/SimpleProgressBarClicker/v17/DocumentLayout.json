@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekte\\GitHub\\SimpleProgressBarClicker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04B6B92F-CBF6-47B5-9264-6D80DD04FC68}|SimpleProgressBarClicker.vcxproj|D:\\Projekte\\GitHub\\SimpleProgressBarClicker\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04B6B92F-CBF6-47B5-9264-6D80DD04FC68}|SimpleProgressBarClicker.vcxproj|solutionrelative:Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B6B92F-CBF6-47B5-9264-6D80DD04FC68}|SimpleProgressBarClicker.vcxproj|D:\\Projekte\\GitHub\\SimpleProgressBarClicker\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{04B6B92F-CBF6-47B5-9264-6D80DD04FC68}|SimpleProgressBarClicker.vcxproj|solutionrelative:Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B6B92F-CBF6-47B5-9264-6D80DD04FC68}|SimpleProgressBarClicker.vcxproj|D:\\Projekte\\GitHub\\SimpleProgressBarClicker\\CppCLR_WinFormsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04B6B92F-CBF6-47B5-9264-6D80DD04FC68}|SimpleProgressBarClicker.vcxproj|solutionrelative:CppCLR_WinFormsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CppCLR_WinFormsProject.cpp",
+              "DocumentMoniker": "D:\\Projekte\\GitHub\\SimpleProgressBarClicker\\CppCLR_WinFormsProject.cpp",
+              "RelativeDocumentMoniker": "CppCLR_WinFormsProject.cpp",
+              "ToolTip": "D:\\Projekte\\GitHub\\SimpleProgressBarClicker\\CppCLR_WinFormsProject.cpp",
+              "RelativeToolTip": "CppCLR_WinFormsProject.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvxQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T20:57:20.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.h",
+              "DocumentMoniker": "D:\\Projekte\\GitHub\\SimpleProgressBarClicker\\Form1.h",
+              "RelativeDocumentMoniker": "Form1.h",
+              "ToolTip": "D:\\Projekte\\GitHub\\SimpleProgressBarClicker\\Form1.h",
+              "RelativeToolTip": "Form1.h",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAAACkBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-09T20:57:20.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.h [Entwurf]",
+              "DocumentMoniker": "D:\\Projekte\\GitHub\\SimpleProgressBarClicker\\Form1.h",
+              "RelativeDocumentMoniker": "Form1.h",
+              "ToolTip": "C:\\Users\\ea-da\\Documents\\GitHub\\SimpleProgressBarClicker\\Form1.h [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-09T20:57:20.89Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
